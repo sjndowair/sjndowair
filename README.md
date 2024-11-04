@@ -1,4 +1,4 @@
-## Hi there 😃
+## Howdy :) 😃
 
 - [My Portfolio](https://sjndowair.github.io/little-space-sov)<br>
   [React Portfolio](https://sjndowair.github.io/movvy)
