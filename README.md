@@ -18,7 +18,7 @@
 
 # State Management
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![react-query](https://img.shields.io/badge/react-query-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
+![react-query](https://img.shields.io/badge/reactquery-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
 
 # Assistance
 ![FireBase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
