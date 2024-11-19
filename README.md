@@ -17,7 +17,6 @@
 ![styled-component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### State Management
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-query](https://img.shields.io/badge/reactquery-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
 
 ### Assistance
