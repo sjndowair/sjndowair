@@ -3,6 +3,7 @@
 #### Web Publisher & Planning _<sub><sup>based in JavaScript</sup></sub>_
 - **BVS** _<sub><sup>Planning / Publish Team (24.03 ~ 25.03)</sup></sub>_
 
+- #### [My Velog](https://velog.io/@sjndowair/posts)<br />
 
 
 > ###### [My Portfolio](https://sjndowair.github.io/little-space-sov) | [Movvy Portfolio](https://sjndowair.github.io/movvy) | [Chart Portfolio](https://sjndowair.github.io/rainyday/)
